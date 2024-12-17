@@ -6,14 +6,14 @@ SyntropicML is a knowledge base algorithm that specializes in energy flows, ecos
 
 ## Phase 1  : Defining Objectives
 
-Target Audience :
+### Target Audience :
 
 1. Beginner and experienced gardeners
 2. Local residents
 3. Tourists
 4. AI enthusiasts
 
-Core Topics :
+### Core Topics :
 
 1. Analyse Principles of syntropic agriculture.
 2. Analyse the Climate and soil conditions in Tinos.
@@ -23,7 +23,7 @@ Core Topics :
 6. Evaluate pest and disease control (natural methods).
 7. Develop case studies of successful syntropic gardens in the region.
 
-Knowledge Base Format :
+### Knowledge Base Format :
 
 1. Text
 2. Images
@@ -32,7 +32,7 @@ Knowledge Base Format :
 
 ## Phase 2  : Data Collection
 
-Gather Existing Information:
+### Gather Existing Information:
 
 1. General research:
 
@@ -45,7 +45,7 @@ Gather Existing Information:
 - Resources from local farmers, gardeners, and environmental organizations.
 - Resources from local libraries, archives, and government resources.
 
-Conduct Field Research:
+### Conduct Field Research:
 
 1. Visit existing gardens in Tinos:
 
@@ -60,7 +60,7 @@ Conduct Field Research:
 
 ## Phase 3  : Content Creation and Fact-Checking
 
-Develop specific Content:
+### Develop specific Content:
 
 1. Develop principles of syntropic agriculture in Tinos.
 2. Evaluate suitable plant species for syntropic systems in Tinos.
@@ -69,26 +69,26 @@ Develop specific Content:
 5. Evaluate pest and disease control (natural methods).
 6. Develop case studies of successful syntropic gardens in the region.
 
-Fact-Checking and Verification of the content.
+### Fact-Checking and Verification of the content.
 
 ## Phase 4  : Knowledge Base Development and Maintenance
 
-Build Knowledge Base (Integrating AI Features):
+### Build Knowledge Base (Integrating AI Features):
 
 - Choose a suitable platform that supports API integrations and R.A.G. for LLMs and image recognition services.
 
-Design AI features: 
+### Design AI features: 
 
 1. LLM-powered Chatbot to answer user questions interactively.
 2. Image Uploads for Plant Identification (using Vision models).
 3. Prepare for future features like image analysis for garden health assessment.
 
-Test and Refine Performance:
+### Test and Refine Performance:
 
 1. Get feedback from your target audience.
 2. Test AI features: Evaluate the accuracy and helpfulness of the chatbot and plant identification features. Gather user feedback specifically on these AI components.
 
-Ongoing Maintenance:
+### Ongoing Maintenance:
 
 1. Keep your information up-to-date.
 2. Regularly review and update your content.

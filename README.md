@@ -1,6 +1,10 @@
 # Scope
 
-SyntropicML is a knowledge base algorithm that specializes in energy flows, ecosystem succession and regenerative agriculture. SyntropicML will be used for building agents that can support decision making, pattern recognition and  predictive modeling. SyntropicML focuses on the following key performance indicator : Biomass production rate, Canopy stratification levels, Root system development, Organic matter content, Soil biodiversity, Water retention capacity, Nutrient cycling efficiency, Carbon sequestration rates, Soil structure improvement, Recovery time after disturbance, Pest/disease resistance, Climate adaptation capacity, System self-maintenance level, Resource use efficiency, Energy flow efficiency, Time to system maturity, Resource input requirements, Maintenance needs, Labor hours required. SyntropicML will focus on the climate of the Cyclades and especially the climate of Tinos Greece and its seasonal cycles, succession stages and long-term ecosystem development.
+SyntropicML is a synthetic knowledge base algorithm that specializes in energy flows, ecosystem succession and regenerative agriculture on the climate of Cyclades Greece and especially the climate of Tinos island and its seasonal cycles, succession stages and long-term ecosystem development. SyntropicML will be used for building agents that can support decision making, pattern recognition and  predictive modeling. SyntropicML focuses on the following key performance indicator : Biomass production rate, Canopy stratification levels, Root system development, Organic matter content, Soil biodiversity, Water retention capacity, Nutrient cycling efficiency, Carbon sequestration rates, Soil structure improvement, Recovery time after disturbance, Pest/disease resistance, Climate adaptation capacity, System self-maintenance level, Resource use efficiency, Energy flow efficiency, Time to system maturity, Resource input requirements, Maintenance needs, Labor hours required. 
+
+
+![MoC](https://github.com/user-attachments/assets/97df211c-c1f3-44f6-9851-49dbb1e411d2)
+
 
 # Roadmap
 
@@ -32,7 +36,7 @@ SyntropicML is a knowledge base algorithm that specializes in energy flows, ecos
 
 ## Phase 2  : Data Collection
 
-### Gather Existing Information:
+### Gather Existing Information :
 
 1. General research:
 
@@ -45,7 +49,7 @@ SyntropicML is a knowledge base algorithm that specializes in energy flows, ecos
 - Resources from local farmers, gardeners, and environmental organizations.
 - Resources from local libraries, archives, and government resources.
 
-### Conduct Field Research:
+### Conduct Field Research :
 
 1. Visit existing gardens in Tinos:
 
@@ -60,7 +64,7 @@ SyntropicML is a knowledge base algorithm that specializes in energy flows, ecos
 
 ## Phase 3  : Content Creation and Fact-Checking
 
-### Develop specific Content:
+### Develop specific Content :
 
 1. Develop principles of syntropic agriculture in Tinos.
 2. Evaluate suitable plant species for syntropic systems in Tinos.
@@ -69,26 +73,28 @@ SyntropicML is a knowledge base algorithm that specializes in energy flows, ecos
 5. Evaluate pest and disease control (natural methods).
 6. Develop case studies of successful syntropic gardens in the region.
 
-### Fact-Checking and Verification of the content.
+### Fact-Checking :
+
+- Verification of the content.
 
 ## Phase 4  : Knowledge Base Development and Maintenance
 
-### Build Knowledge Base (Integrating AI Features):
+### Build Knowledge Base (Integrating AI Features) :
 
 - Choose a suitable platform that supports API integrations and R.A.G. for LLMs and image recognition services.
 
-### Design AI features: 
+### Design AI features :
 
 1. LLM-powered Chatbot to answer user questions interactively.
 2. Image Uploads for Plant Identification (using Vision models).
 3. Prepare for future features like image analysis for garden health assessment.
 
-### Test and Refine Performance:
+### Test and Refine Performance :
 
 1. Get feedback from your target audience.
 2. Test AI features: Evaluate the accuracy and helpfulness of the chatbot and plant identification features. Gather user feedback specifically on these AI components.
 
-### Ongoing Maintenance:
+### Ongoing Maintenance :
 
 1. Keep your information up-to-date.
 2. Regularly review and update your content.
@@ -102,5 +108,3 @@ SyntropicML is a knowledge base algorithm that specializes in energy flows, ecos
 4. Cultural context: Incorporate local traditions and knowledge related to agriculture and gardening.
 
 By following this roadmap and adapting it to the specific context of Tinos, we built a valuable and informative knowledge base that helps people create thriving syntropic gardens.
-
-

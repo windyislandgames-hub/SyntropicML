@@ -1,3 +1,5 @@
+This is the english section of the README file, navigate to the lower portion of the page for the greek version.
+
 # Scope
 
 SyntropicML is a synthetic knowledge base algorithm that specializes in energy flows, ecosystem succession and regenerative agriculture on the climate of Cyclades Greece and especially the climate of Tinos island and its seasonal cycles, succession stages and long-term ecosystem development. SyntropicML will be used for building agents that can support decision making, pattern recognition and  predictive modeling. SyntropicML focuses on the following key performance indicator : Biomass production rate, Canopy stratification levels, Root system development, Organic matter content, Soil biodiversity, Water retention capacity, Nutrient cycling efficiency, Carbon sequestration rates, Soil structure improvement, Recovery time after disturbance, Pest/disease resistance, Climate adaptation capacity, System self-maintenance level, Resource use efficiency, Energy flow efficiency, Time to system maturity, Resource input requirements, Maintenance needs, Labor hours required. 
@@ -108,3 +110,8 @@ SyntropicML is a synthetic knowledge base algorithm that specializes in energy f
 4. Cultural context: Incorporate local traditions and knowledge related to agriculture and gardening.
 
 By following this roadmap and adapting it to the specific context of Tinos, we built a valuable and informative knowledge base that helps people create thriving syntropic gardens.
+
+
+---
+
+Σε αυτόν τον τομέα θα βρείτε σε λίγες ημέρες την έκδοση του README στα ελληνικά.

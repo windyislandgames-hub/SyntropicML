@@ -2,7 +2,7 @@ This is the english section of the README file, navigate to the lower portion of
 
 # Scope
 
-SyntropicML is a synthetic knowledge base algorithm that specializes in energy flows, ecosystem succession and regenerative agriculture on the climate of Cyclades Greece and especially the climate of Tinos island and its seasonal cycles, succession stages and long-term ecosystem development. SyntropicML will be used for building agents that can support decision making, pattern recognition and  predictive modeling. SyntropicML focuses on the following key performance indicator : Biomass production rate, Canopy stratification levels, Root system development, Organic matter content, Soil biodiversity, Water retention capacity, Nutrient cycling efficiency, Carbon sequestration rates, Soil structure improvement, Recovery time after disturbance, Pest/disease resistance, Climate adaptation capacity, System self-maintenance level, Resource use efficiency, Energy flow efficiency, Time to system maturity, Resource input requirements, Maintenance needs, Labor hours required. 
+SyntropicML is a synthetic knowledge base collection of algorithms that specialize in energy flows, ecosystem succession and regenerative agriculture on the climate of Tinos island and its seasonal cycles, succession stages and long-term ecosystem development. SyntropicML deliverables will be used for building agents that can support decision making, pattern recognition and  predictive modeling that follow key performance indicator : Biomass production rate, Canopy stratification levels, Root system development, Organic matter content, Soil biodiversity, Water retention capacity, Nutrient cycling efficiency, Carbon sequestration rates, Soil structure improvement, Recovery time after disturbance, Pest/disease resistance, Climate adaptation capacity, System self-maintenance level, Resource use efficiency, Energy flow efficiency, Time to system maturity, Resource input requirements, Maintenance needs. 
 
 ![MoC](https://github.com/user-attachments/assets/4d7695fe-223a-44f9-aa34-70fd74335cb1)
 
@@ -25,7 +25,7 @@ SyntropicML is a synthetic knowledge base algorithm that specializes in energy f
 2. Analyse the Climate and soil conditions in Tinos.
 3. Evaluate suitable plant species for syntropic systems in Tinos.
 4. Evaluate practical techniques (e.g. planting, pruning, mulching).
-5. Evaluate water management in a dry climate.
+5. Evaluate water management in a dry climate and engineering solutions (e.g. re-use of blackwater and greywater).
 6. Evaluate pest and disease control (natural methods).
 7. Develop case studies of successful syntropic gardens in the region.
 
@@ -34,7 +34,6 @@ SyntropicML is a synthetic knowledge base algorithm that specializes in energy f
 1. Text
 2. Images
 3. R.A.G. framework
-4. Web platform
 
 ## Phase 2  : Data Collection
 
@@ -93,20 +92,21 @@ SyntropicML is a synthetic knowledge base algorithm that specializes in energy f
 
 ### Test and Refine Performance :
 
-1. Get feedback from your target audience.
-2. Test AI features: Evaluate the accuracy and helpfulness of the chatbot and plant identification features. Gather user feedback specifically on these AI components.
+1. Get general feedback from target audience.
+2. Test AI featuresand evaluate the accuracy and helpfulness of the chatbot and plant identification features.
+3. Gather user feedback specifically on these AI components.
 
 ### Ongoing Maintenance :
 
-1. Keep your information up-to-date.
-2. Regularly review and update your content.
+1. Keep information up-to-date.
+2. Regularly review and update content.
 3. Monitor and refine AI performance.
 
-## Specific Considerations  for Tinos, Greece
+## Develop Solutions for Tinos Island :
 
-1. Water scarcity: Address water-wise gardening techniques, drought-tolerant plants, and water harvesting methods.
+1. Water scarcity: Address water-wise gardening techniques, drought-tolerant plants, greywater and blackwater treatment and re-use.
 2. Strong winds: Provide guidance on windbreaks and plant selection for windy conditions.
-3. Local plant varieties: Emphasize the use of native and well-adapted species.
+3. Local plant varieties: Test and emphasize the use of native and well-adapted species.
 4. Cultural context: Incorporate local traditions and knowledge related to agriculture and gardening.
 
 By following this roadmap and adapting it to the specific context of Tinos, we built a valuable and informative knowledge base that helps people create thriving syntropic gardens.
